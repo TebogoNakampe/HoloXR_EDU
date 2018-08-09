@@ -11,6 +11,11 @@ X Reality (XR or Cross Reality) is defined as: a form of “mixed reality enviro
 HoloXR uses AR to create a live view of a real-world environment (“reality”) with computer-generated input (sound, 3D Machinery graphics, 3D text, 360 video, and GPS information) and thus supplementing (“augmenting”) the visual elements in the view.
 Using 3-D AR systems enables real tasks to be completed with the help of virtual agents.  3-D AR, mechanical technology learners disassembling an engine will see live, real-time directions overlaid on the parts set out in front of them, and a 360 video showing exactly what steps to take next. We use object detection and segmentation software to create high-quality and accurate content for computer-aided design (CAD) models.
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/TebogoNakampe/HoloXR_EDU/blob/master/AugmentedReality.PNG">
+</p>
+
+
 # Problem Statement
 
 The Key Challenges that are inherent in the technical
