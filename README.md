@@ -3,7 +3,7 @@ Technology Education in XR
 <p align="center">
   <img width="460" height="300" src="https://github.com/TebogoNakampe/HoloXR_EDU/blob/master/MainMenua.png">
 </p>
-
+Download on Google Play Store: https://play.google.com/store/apps/details?id=com.ABI.HoloXR
 # Background
 
 X Reality (XR or Cross Reality) is defined as: a form of “mixed reality environment that comes from the fusion (union) of ubiquitous sensor/actuator networks and shared online virtual worlds. It encompasses a wide spectrum of hardware and software, including sensory interfaces, applications, and infrastructures, that enable content creation for virtual reality (VR), mixed reality (MR), augmented reality (AR), cinematic reality (CR). With these tools, users generate new forms of reality by bringing digital objects into the physical world and bringing physical world objects into the digital world.
