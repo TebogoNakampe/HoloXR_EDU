@@ -46,6 +46,14 @@ Quite fine granular registration of real world overlays is used to implement ins
 
 Main Users: Learners and Teachers
 
+# Tech Stack
+<p align="center">
+  <img width="460" height="300" src="https://github.com/TebogoNakampe/HoloXR_EDU/blob/master/tech_stack.PNG">
+</p>
+# Machine Learning Pipeline
+<p align="center">
+  <img width="460" height="300" src="https://github.com/TebogoNakampe/HoloXR_EDU/blob/master/machine_learning_pipeline.PNG">
+</p>
 # Tools and SDK: 
 These are the tools used to generate debug and optimize content
 We use vuforia for digital content storage and augmenting 3D models.
